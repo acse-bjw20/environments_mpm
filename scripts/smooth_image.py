@@ -1,10 +1,9 @@
-# from envtest import rand_array
-#
-# shape = (3, 3)
-#
-# print(rand_array(shape))
-
 from envtest import smooth_image
+
+shape = (3, 3)
+
+
+
 
 from scipy import misc
 import matplotlib.pyplot as plt

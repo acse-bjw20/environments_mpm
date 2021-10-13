@@ -3,7 +3,7 @@ from scipy.ndimage import gaussian_filter
 from scipy import misc
 
 
-__all__ = ['rand_array','smooth_image','my_mat_solve']
+__all__ = ['rand_array','smooth_image', 'my_mat_solve']
 
 
 def rand_array(shape):
